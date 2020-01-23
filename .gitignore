@@ -1,0 +1,31 @@
+#Ignore the data files
+*.mat
+
+#ignore the figures
+*.fig
+*.eps
+*.pdf
+*.jpg
+*.mp4
+
+#ignore latex aux files
+*.log
+*.synctex.gz
+*.aux
+*.dvi
+
+#ignore data files
+*.dat
+
+#ignore the temporary matlab files
+*.m~
+
+#ignore temp, data and figures folders
+temp/
+data/
+figures/
+results/
+
+
+#ignore vim swap files
+*.swp
